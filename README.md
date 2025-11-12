@@ -14,7 +14,8 @@ I also created my own license, the **ZEPL License**:
 3. Working with languages like Python, HTML, CSS, Luau, Bash, CMD, and more  
 ---
 ## My hopes for the future of tech
-> I want software to be open-source, and Linux to be the standered  
+> I want software to be open-source, and Linux to be the standered
+> 
 Why?
 Windows is closed source, has bloatware, and spyware intergrated
 Linux solves all that, with open source software regining the OS.
