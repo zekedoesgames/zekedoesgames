@@ -1,5 +1,5 @@
 #Hello. 
-<p> hey im zeke</p>
+ hey im zeke
 [check out my portfolio](zekedoesgames.github.io/ZekesPortfolio)
 #Social profiles
 [tiktok](tiktok.com/@zeke_tuxx)
